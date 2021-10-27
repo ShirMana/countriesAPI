@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover; 
+}
+
+h1 {font-family: fantasy; color: antiquewhite;}
+h2 {color: azure;}
+h3 {font-family: fantasy; color: aliceblue;}
+#output {background-color: black; color: wheat;}
